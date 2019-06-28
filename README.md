@@ -79,3 +79,8 @@ Perform Transfer Learning with Google Inception V3 Model for Image Classificatio
 Model Weights are stored in a frozen .pb file.
 tkinter is used for creating GUI.
 AI is used to classify images and most frequent result will become the overall result
+
+AI
+----------
+All trained models are in AI.zip
+Place them in logs
