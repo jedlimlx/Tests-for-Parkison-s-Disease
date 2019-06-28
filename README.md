@@ -36,7 +36,7 @@ Place your hand in the blue box.
 Open your hand and close your and as the program says.
 
 Other Instructions:
-If you moved the laptop camera, press <B>.
+If you moved the laptop camera, press \<B\>.
 For instructions, press \<I\>.
 
 Troubleshooting:
@@ -65,7 +65,7 @@ Settings:
 You can change number of repetitions.
 
 Other Instructions:
-If you moved the laptop camera, press <B>.
+If you moved the laptop camera, press \<B\>.
 For instructions, press \<I\>.
 When performing the action, move your ahnd slowly.
 
