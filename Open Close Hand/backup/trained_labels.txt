@@ -1,0 +1,4 @@
+close
+half
+nothing
+open

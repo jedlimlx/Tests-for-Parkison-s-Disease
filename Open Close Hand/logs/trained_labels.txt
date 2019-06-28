@@ -1,0 +1,6 @@
+close
+half
+half side
+nothing
+open
+open side
