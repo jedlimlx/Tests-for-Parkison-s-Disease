@@ -82,7 +82,9 @@ AI is used to classify images and most frequent result will become the overall r
 
 AI
 ----------
-All trained models are in AI.zip
+All trained models are in AI.zip.
+https://www.dropbox.com/s/40df6dyxxqdbtqd/AI.zip?dl=0
+
 Place them in logs.
 Code to train AI taken from here:
 https://github.com/xuetsing/image-classification-tensorflow
