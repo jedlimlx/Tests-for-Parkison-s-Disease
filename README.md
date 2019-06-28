@@ -37,7 +37,7 @@ Open your hand and close your and as the program says.
 
 Other Instructions:
 If you moved the laptop camera, press <B>.
-For instructions, press <I>.
+For instructions, press \<I\>.
 
 Troubleshooting:
 If you press <SPACE> repeatedly and no response, click on the grey area of the window and try again.
@@ -66,7 +66,7 @@ You can change number of repetitions.
 
 Other Instructions:
 If you moved the laptop camera, press <B>.
-For instructions, press <I>.
+For instructions, press \<I\>.
 When performing the action, move your ahnd slowly.
 
 Troubleshooting:
